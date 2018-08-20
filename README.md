@@ -24,11 +24,13 @@ Output the result corresponding to the testcase.
 **Constraints**
 
 1 ≤ N ≤ 2000
+
 1 ≤ K ≤ 4 x 10⁶
 
 **Sample Input#00**
 
 2
+
 2
 
 **Sample Output**
@@ -40,6 +42,7 @@ The optimal strategy is to hop upwards twice: from step 0 to step 1, and then fr
 **Sample Input#01**
 
 2
+
 1
 
 **Sample Output**
